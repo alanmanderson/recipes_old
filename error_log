@@ -1,0 +1,527 @@
+[19-Jun-2012 16:06:20] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/alanmand/public_html/commons/checkauth.php:7) in /home3/alanmand/public_html/Recipes/checkauth.php on line 3
+[19-Jun-2012 16:07:06] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/alanmand/public_html/commons/checkauth.php:7) in /home3/alanmand/public_html/Recipes/checkauth.php on line 3
+[19-Jun-2012 16:10:05] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/alanmand/public_html/commons/checkauth.php:7) in /home3/alanmand/public_html/Recipes/checkauth.php on line 3
+[19-Jun-2012 16:13:17] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/alanmand/public_html/commons/checkauth.php:7) in /home3/alanmand/public_html/Recipes/checkauth.php on line 3
+[19-Jun-2012 16:15:17] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/alanmand/public_html/commons/checkauth.php:7) in /home3/alanmand/public_html/Recipes/checkauth.php on line 3
+[19-Jun-2012 16:15:17] PHP Warning:  Wrong parameter count for mysql_db_name() in /home3/alanmand/public_html/commons/navBar.php on line 6
+[19-Jun-2012 16:18:48] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/alanmand/public_html/commons/checkauth.php:7) in /home3/alanmand/public_html/Recipes/checkauth.php on line 3
+[19-Jun-2012 16:22:23] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/alanmand/public_html/commons/checkauth.php:7) in /home3/alanmand/public_html/Recipes/checkauth.php on line 3
+[19-Jun-2012 16:22:44] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/alanmand/public_html/commons/checkauth.php:7) in /home3/alanmand/public_html/Recipes/checkauth.php on line 3
+[19-Jun-2012 16:22:58] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/alanmand/public_html/commons/checkauth.php:7) in /home3/alanmand/public_html/Recipes/checkauth.php on line 3
+[19-Jun-2012 16:23:24] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/alanmand/public_html/commons/checkauth.php:7) in /home3/alanmand/public_html/Recipes/checkauth.php on line 3
+[19-Jun-2012 16:44:52] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting T_VARIABLE or '$' in /home3/alanmand/public_html/commons/checkauth.php on line 12
+[19-Jun-2012 16:45:03] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting T_VARIABLE or '$' in /home3/alanmand/public_html/commons/checkauth.php on line 12
+[19-Jun-2012 16:47:17] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting T_VARIABLE or '$' in /home3/alanmand/public_html/commons/checkauth.php on line 12
+[19-Jun-2012 16:48:20] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ';' in /home3/alanmand/public_html/commons/checkauth.php on line 12
+[19-Jun-2012 17:07:13] PHP Fatal error:  Cannot access empty property in /home3/alanmand/public_html/commons/checkauth.php on line 13
+[19-Jun-2012 19:31:07] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'navBar.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home3/alanmand/public_html/recipes/admin.php on line 31
+[19-Jun-2012 19:31:08] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'navBar.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home3/alanmand/public_html/recipes/admin.php on line 131
+[19-Jun-2012 19:45:53] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'navBar.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home3/alanmand/public_html/recipes/admin.php on line 31
+[19-Jun-2012 19:45:54] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'navBar.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home3/alanmand/public_html/recipes/admin.php on line 131
+[03-Sep-2012 17:08:57] PHP Warning:  include_once(checkauth.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home3/alanmand/public_html/recipes/admin.php on line 2
+[03-Sep-2012 17:08:57] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'checkauth.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home3/alanmand/public_html/recipes/admin.php on line 2
+[03-Sep-2012 17:08:57] PHP Warning:  include_once(dbconnect.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home3/alanmand/public_html/recipes/admin.php on line 4
+[03-Sep-2012 17:08:57] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'dbconnect.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home3/alanmand/public_html/recipes/admin.php on line 4
+[03-Sep-2012 17:08:57] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'navBar.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home3/alanmand/public_html/recipes/admin.php on line 37
+[03-Sep-2012 17:08:58] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'navBar.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home3/alanmand/public_html/recipes/admin.php on line 133
+[03-Sep-2012 17:15:19] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'navBar.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home3/alanmand/public_html/recipes/admin.php on line 54
+[03-Sep-2012 17:15:20] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'navBar.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home3/alanmand/public_html/recipes/admin.php on line 146
+[03-Sep-2012 17:16:05] PHP Warning:  Invalid argument supplied for foreach() in /home3/alanmand/public_html/recipes/admin.php on line 13
+[03-Sep-2012 17:16:05] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'navBar.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home3/alanmand/public_html/recipes/admin.php on line 54
+[03-Sep-2012 17:16:06] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'navBar.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home3/alanmand/public_html/recipes/admin.php on line 146
+[03-Sep-2012 17:16:15] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'navBar.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home3/alanmand/public_html/recipes/admin.php on line 54
+[03-Sep-2012 17:16:16] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'navBar.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home3/alanmand/public_html/recipes/admin.php on line 146
+[03-Sep-2012 17:16:30] PHP Warning:  Invalid argument supplied for foreach() in /home3/alanmand/public_html/recipes/admin.php on line 13
+[03-Sep-2012 17:16:30] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'navBar.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home3/alanmand/public_html/recipes/admin.php on line 54
+[03-Sep-2012 17:16:31] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'navBar.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home3/alanmand/public_html/recipes/admin.php on line 146
+[03-Sep-2012 23:54:24] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home3/alanmand/public_html/recipes/admin.php on line 11
+[03-Sep-2012 23:55:30] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home3/alanmand/public_html/recipes/admin.php on line 12
+[04-Sep-2012 00:37:54] PHP Parse error:  syntax error, unexpected '{' in /home3/alanmand/public_html/recipes/admin.php on line 130
+[04-Sep-2012 17:03:31] PHP Fatal error:  Call to undefined function  len() in /home3/alanmand/public_html/recipes/admin.php on line 48
+[04-Sep-2012 17:08:10] PHP Fatal error:  Call to undefined function  len() in /home3/alanmand/public_html/recipes/admin.php on line 49
+[04-Sep-2012 17:11:20] PHP Fatal error:  Call to undefined function  len() in /home3/alanmand/public_html/recipes/admin.php on line 49
+[09-Sep-2012 16:00:07] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home3/alanmand/public_html/recipes/admin.php on line 41
+[09-Sep-2012 16:06:33] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home3/alanmand/public_html/recipes/admin.php on line 41
+[09-Sep-2012 16:06:54] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home3/alanmand/public_html/recipes/admin.php on line 41
+[09-Sep-2012 16:09:21] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home3/alanmand/public_html/recipes/admin.php on line 41
+[09-Sep-2012 16:12:14] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home3/alanmand/public_html/recipes/admin.php on line 41
+[09-Sep-2012 16:14:28] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home3/alanmand/public_html/recipes/admin.php on line 41
+[09-Sep-2012 16:15:29] PHP Warning:  htmlentities() expects parameter 1 to be string, array given in /home3/alanmand/public_html/recipes/admin.php on line 42
+[09-Sep-2012 23:10:02] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home3/alanmand/public_html/recipes/admin.php:1) in /home3/alanmand/public_html/commons/checkauth.php on line 2
+[09-Sep-2012 23:10:02] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/alanmand/public_html/recipes/admin.php:1) in /home3/alanmand/public_html/commons/checkauth.php on line 3
+[09-Sep-2012 23:10:03] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home3/alanmand/public_html/recipes/admin.php:1) in /home3/alanmand/public_html/commons/checkauth.php on line 2
+[09-Sep-2012 23:10:03] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/alanmand/public_html/recipes/admin.php:1) in /home3/alanmand/public_html/commons/checkauth.php on line 3
+[09-Sep-2012 23:11:03] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home3/alanmand/public_html/recipes/admin.php:1) in /home3/alanmand/public_html/commons/checkauth.php on line 2
+[09-Sep-2012 23:11:03] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/alanmand/public_html/recipes/admin.php:1) in /home3/alanmand/public_html/commons/checkauth.php on line 3
+[09-Sep-2012 23:11:04] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home3/alanmand/public_html/recipes/admin.php:1) in /home3/alanmand/public_html/commons/checkauth.php on line 2
+[09-Sep-2012 23:11:04] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/alanmand/public_html/recipes/admin.php:1) in /home3/alanmand/public_html/commons/checkauth.php on line 3
+[09-Sep-2012 23:11:29] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home3/alanmand/public_html/recipes/admin.php:1) in /home3/alanmand/public_html/commons/checkauth.php on line 2
+[09-Sep-2012 23:11:29] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/alanmand/public_html/recipes/admin.php:1) in /home3/alanmand/public_html/commons/checkauth.php on line 3
+[09-Sep-2012 23:11:30] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home3/alanmand/public_html/recipes/admin.php:1) in /home3/alanmand/public_html/commons/checkauth.php on line 2
+[09-Sep-2012 23:11:30] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/alanmand/public_html/recipes/admin.php:1) in /home3/alanmand/public_html/commons/checkauth.php on line 3
+[09-Sep-2012 23:11:59] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home3/alanmand/public_html/recipes/admin.php:1) in /home3/alanmand/public_html/commons/checkauth.php on line 2
+[09-Sep-2012 23:11:59] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/alanmand/public_html/recipes/admin.php:1) in /home3/alanmand/public_html/commons/checkauth.php on line 3
+[09-Sep-2012 23:11:59] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home3/alanmand/public_html/recipes/admin.php:1) in /home3/alanmand/public_html/commons/checkauth.php on line 2
+[09-Sep-2012 23:11:59] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/alanmand/public_html/recipes/admin.php:1) in /home3/alanmand/public_html/commons/checkauth.php on line 3
+[09-Sep-2012 23:12:20] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home3/alanmand/public_html/recipes/admin.php:1) in /home3/alanmand/public_html/commons/checkauth.php on line 2
+[09-Sep-2012 23:12:20] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/alanmand/public_html/recipes/admin.php:1) in /home3/alanmand/public_html/commons/checkauth.php on line 3
+[09-Sep-2012 23:12:20] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home3/alanmand/public_html/recipes/admin.php:1) in /home3/alanmand/public_html/commons/checkauth.php on line 2
+[09-Sep-2012 23:12:20] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/alanmand/public_html/recipes/admin.php:1) in /home3/alanmand/public_html/commons/checkauth.php on line 3
+[10-Sep-2012 01:53:43] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home3/alanmand/public_html/recipes/admin.php:1) in /home3/alanmand/public_html/commons/checkauth.php on line 2
+[10-Sep-2012 01:53:43] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/alanmand/public_html/recipes/admin.php:1) in /home3/alanmand/public_html/commons/checkauth.php on line 3
+[10-Sep-2012 01:53:44] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home3/alanmand/public_html/recipes/admin.php:1) in /home3/alanmand/public_html/commons/checkauth.php on line 2
+[10-Sep-2012 01:53:44] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/alanmand/public_html/recipes/admin.php:1) in /home3/alanmand/public_html/commons/checkauth.php on line 3
+[10-Sep-2012 01:53:44] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/alanmand/public_html/recipes/admin.php:1) in /home3/alanmand/public_html/commons/checkauth.php on line 5
+[10-Sep-2012 01:53:56] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home3/alanmand/public_html/recipes/admin.php:1) in /home3/alanmand/public_html/commons/checkauth.php on line 2
+[10-Sep-2012 01:53:56] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/alanmand/public_html/recipes/admin.php:1) in /home3/alanmand/public_html/commons/checkauth.php on line 3
+[10-Sep-2012 01:53:56] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/alanmand/public_html/recipes/admin.php:1) in /home3/alanmand/public_html/commons/checkauth.php on line 5
+[10-Sep-2012 01:53:56] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home3/alanmand/public_html/recipes/admin.php:1) in /home3/alanmand/public_html/commons/checkauth.php on line 2
+[10-Sep-2012 01:53:56] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/alanmand/public_html/recipes/admin.php:1) in /home3/alanmand/public_html/commons/checkauth.php on line 3
+[10-Sep-2012 01:53:56] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/alanmand/public_html/recipes/admin.php:1) in /home3/alanmand/public_html/commons/checkauth.php on line 5
+[17-Sep-2012 15:09:46] PHP Parse error:  syntax error, unexpected '}' in /home3/alanmand/public_html/recipes/search.php on line 20
+[17-Sep-2012 16:08:54] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home3/alanmand/public_html/recipes/search.php on line 20
+[17-Sep-2012 16:08:54] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home3/alanmand/public_html/recipes/search.php on line 20
+[17-Sep-2012 16:10:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home3/alanmand/public_html/recipes/search.php on line 100
+[11-Nov-2012 00:36:50] PHP Parse error:  syntax error, unexpected '{' in /home3/alanmand/public_html/recipes/recipe.php on line 9
+[11-Nov-2012 00:36:54] PHP Parse error:  syntax error, unexpected '{' in /home3/alanmand/public_html/recipes/recipe.php on line 9
+[11-Nov-2012 00:37:20] PHP Parse error:  syntax error, unexpected '{' in /home3/alanmand/public_html/recipes/recipe.php on line 9
+[11-Nov-2012 00:39:35] PHP Parse error:  syntax error, unexpected '{' in /home3/alanmand/public_html/recipes/recipe.php on line 9
+[11-Nov-2012 00:42:32] PHP Parse error:  syntax error, unexpected '[' in /home3/alanmand/public_html/recipes/recipe.php on line 9
+[11-Nov-2012 00:53:57] PHP Parse error:  syntax error, unexpected '.', expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home3/alanmand/public_html/recipes/recipe.php on line 76
+[11-Nov-2012 00:54:32] PHP Parse error:  syntax error, unexpected '.', expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home3/alanmand/public_html/recipes/recipe.php on line 76
+[11-Nov-2012 00:54:57] PHP Parse error:  syntax error, unexpected '.', expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home3/alanmand/public_html/recipes/recipe.php on line 76
+[11-Nov-2012 00:55:29] PHP Parse error:  syntax error, unexpected '.', expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home3/alanmand/public_html/recipes/recipe.php on line 76
+[11-Nov-2012 00:55:35] PHP Parse error:  syntax error, unexpected '.', expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home3/alanmand/public_html/recipes/recipe.php on line 76
+[11-Nov-2012 16:00:48] PHP Parse error:  syntax error, unexpected T_STRING, expecting ']' in /home3/alanmand/public_html/recipes/recipe1.php on line 56
+[06-May-2014 07:10:39 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[06-May-2014 07:10:39 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[07-May-2014 14:08:15 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[07-May-2014 14:08:15 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[12-May-2014 15:51:59 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[12-May-2014 15:51:59 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[13-May-2014 23:41:08 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[13-May-2014 23:41:08 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[14-May-2014 07:08:55 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[14-May-2014 07:08:55 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[15-May-2014 16:00:19 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[15-May-2014 16:00:19 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[16-May-2014 10:17:36 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[16-May-2014 10:17:36 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[22-May-2014 07:08:54 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[22-May-2014 07:08:54 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[25-May-2014 18:34:46 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[25-May-2014 18:34:46 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[25-May-2014 22:43:16 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[25-May-2014 22:43:16 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[28-May-2014 01:15:49 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[28-May-2014 01:15:49 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[30-May-2014 07:08:54 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[30-May-2014 07:08:54 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[30-May-2014 10:53:22 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[30-May-2014 10:53:22 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[01-Jun-2014 09:42:39 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[01-Jun-2014 09:42:40 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[04-Jun-2014 05:58:27 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[04-Jun-2014 05:58:28 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[07-Jun-2014 07:08:54 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[07-Jun-2014 07:08:54 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[07-Jun-2014 07:08:54 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[07-Jun-2014 07:08:54 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[07-Jun-2014 16:41:09 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[07-Jun-2014 16:41:09 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[09-Jun-2014 08:53:38 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[09-Jun-2014 08:53:38 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[11-Jun-2014 06:59:46 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[11-Jun-2014 06:59:46 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[12-Jun-2014 22:20:54 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[12-Jun-2014 22:20:54 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[13-Jun-2014 11:51:23 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[13-Jun-2014 11:51:24 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[14-Jun-2014 07:08:55 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[14-Jun-2014 07:08:55 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[14-Jun-2014 07:08:55 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[14-Jun-2014 07:08:55 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[17-Jun-2014 15:12:44 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[17-Jun-2014 15:12:44 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[19-Jun-2014 10:45:10 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[19-Jun-2014 10:45:11 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[21-Jun-2014 07:08:55 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[21-Jun-2014 07:08:55 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[22-Jun-2014 14:04:40 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[22-Jun-2014 14:04:40 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[28-Jun-2014 07:08:55 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[28-Jun-2014 07:08:55 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[29-Jun-2014 04:51:40 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[29-Jun-2014 04:51:40 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[04-Jul-2014 12:27:21 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[04-Jul-2014 12:27:21 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[05-Jul-2014 07:09:08 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[05-Jul-2014 07:09:08 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[07-Jul-2014 14:12:04 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[07-Jul-2014 14:12:04 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[12-Jul-2014 07:08:55 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[12-Jul-2014 07:08:55 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[12-Jul-2014 07:51:20 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[12-Jul-2014 07:51:20 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[15-Jul-2014 19:07:03 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[15-Jul-2014 19:07:03 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[16-Jul-2014 05:23:40 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[16-Jul-2014 05:23:40 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[19-Jul-2014 15:26:48 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[19-Jul-2014 15:26:48 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[22-Jul-2014 04:18:13 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[22-Jul-2014 04:18:13 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[25-Jul-2014 07:45:11 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[25-Jul-2014 07:45:11 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[25-Jul-2014 19:21:52 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[25-Jul-2014 19:21:52 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[26-Jul-2014 00:15:27 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[26-Jul-2014 00:15:27 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[26-Jul-2014 07:08:56 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[26-Jul-2014 07:08:56 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[02-Aug-2014 07:08:56 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[02-Aug-2014 07:08:56 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[09-Aug-2014 07:08:57 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[09-Aug-2014 07:08:57 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[12-Aug-2014 16:31:09 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[12-Aug-2014 16:31:09 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[12-Aug-2014 22:02:04 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[12-Aug-2014 22:02:04 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[13-Aug-2014 03:24:00 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[13-Aug-2014 03:24:00 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[14-Aug-2014 21:32:52 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[14-Aug-2014 21:32:52 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[16-Aug-2014 07:08:57 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[16-Aug-2014 07:08:57 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[19-Aug-2014 11:21:04 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[19-Aug-2014 11:21:04 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[19-Aug-2014 11:28:56 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[19-Aug-2014 11:28:56 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[19-Aug-2014 11:30:14 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[19-Aug-2014 11:30:14 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[19-Aug-2014 11:32:54 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[19-Aug-2014 11:32:54 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[20-Aug-2014 15:42:25 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[20-Aug-2014 15:42:25 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[22-Aug-2014 12:49:08 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[22-Aug-2014 12:49:08 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[23-Aug-2014 07:08:58 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[23-Aug-2014 07:08:58 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[24-Aug-2014 17:33:43 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[24-Aug-2014 17:33:43 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[27-Aug-2014 22:45:53 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[27-Aug-2014 22:45:54 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[28-Aug-2014 18:33:14 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[28-Aug-2014 18:33:14 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[30-Aug-2014 07:08:58 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[30-Aug-2014 07:08:58 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[30-Aug-2014 13:05:13 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[30-Aug-2014 13:05:13 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[30-Aug-2014 21:01:44 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[30-Aug-2014 21:01:44 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[02-Sep-2014 07:30:36 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[02-Sep-2014 07:30:36 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[06-Sep-2014 13:44:49 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[06-Sep-2014 13:44:49 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[09-Sep-2014 01:46:44 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[09-Sep-2014 01:46:44 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[09-Sep-2014 01:46:44 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[09-Sep-2014 01:46:44 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[10-Sep-2014 20:30:22 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[10-Sep-2014 20:30:22 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[14-Sep-2014 00:44:00 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[14-Sep-2014 00:44:00 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[14-Sep-2014 00:54:23 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[14-Sep-2014 00:54:23 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[15-Sep-2014 02:04:59 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[15-Sep-2014 02:04:59 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[18-Sep-2014 16:11:55 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[18-Sep-2014 16:11:55 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[19-Sep-2014 07:13:23 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[19-Sep-2014 07:13:23 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[20-Sep-2014 16:46:37 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[20-Sep-2014 16:46:37 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[26-Sep-2014 15:37:05 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[26-Sep-2014 15:37:05 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[29-Sep-2014 13:10:33 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[29-Sep-2014 13:10:33 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[30-Sep-2014 17:23:08 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[30-Sep-2014 17:23:08 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[01-Oct-2014 13:58:08 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[01-Oct-2014 13:58:08 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[06-Oct-2014 01:00:57 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[06-Oct-2014 01:00:57 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[06-Oct-2014 17:46:20 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[06-Oct-2014 17:46:20 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[08-Oct-2014 11:23:40 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[08-Oct-2014 11:23:40 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[12-Oct-2014 15:28:38 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[12-Oct-2014 15:28:38 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[12-Oct-2014 21:20:11 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[12-Oct-2014 21:20:11 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[15-Oct-2014 01:01:19 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[15-Oct-2014 01:01:19 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[15-Oct-2014 08:35:12 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[15-Oct-2014 08:35:13 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[15-Oct-2014 08:38:17 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[15-Oct-2014 08:38:17 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[15-Oct-2014 08:38:41 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[15-Oct-2014 08:38:41 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[16-Oct-2014 11:48:37 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[16-Oct-2014 11:48:37 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[16-Oct-2014 15:25:06 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[16-Oct-2014 15:25:06 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[18-Oct-2014 04:43:18 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[18-Oct-2014 04:43:18 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[18-Oct-2014 08:52:32 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[18-Oct-2014 08:52:32 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[19-Oct-2014 03:24:07 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[19-Oct-2014 03:24:07 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[21-Oct-2014 05:34:11 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[21-Oct-2014 05:34:11 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[22-Oct-2014 07:29:40 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[22-Oct-2014 07:29:40 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[23-Oct-2014 15:24:58 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[23-Oct-2014 15:24:58 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[25-Oct-2014 07:03:19 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[25-Oct-2014 07:03:19 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[28-Oct-2014 16:25:32 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[28-Oct-2014 16:25:32 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[31-Oct-2014 23:33:43 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[31-Oct-2014 23:33:43 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[05-Nov-2014 12:54:26 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[05-Nov-2014 12:54:26 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[09-Nov-2014 09:05:07 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[09-Nov-2014 09:05:07 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[10-Nov-2014 03:02:05 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[10-Nov-2014 03:02:05 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[10-Nov-2014 16:52:02 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[10-Nov-2014 16:52:02 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[11-Nov-2014 12:40:50 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[11-Nov-2014 12:40:50 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[11-Nov-2014 21:21:51 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[11-Nov-2014 21:21:51 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[11-Nov-2014 22:26:34 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[11-Nov-2014 22:26:34 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[13-Nov-2014 00:15:52 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[13-Nov-2014 00:15:52 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[15-Nov-2014 14:23:04 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[15-Nov-2014 14:23:04 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[15-Nov-2014 15:26:29 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[15-Nov-2014 15:26:29 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[17-Nov-2014 07:51:09 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[17-Nov-2014 07:51:10 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[17-Nov-2014 23:41:06 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[17-Nov-2014 23:41:06 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[18-Nov-2014 21:31:33 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[18-Nov-2014 21:31:33 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[24-Nov-2014 17:33:57 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[24-Nov-2014 17:33:57 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[26-Nov-2014 20:37:49 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[26-Nov-2014 20:37:49 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[27-Nov-2014 04:18:49 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[27-Nov-2014 04:18:49 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[28-Nov-2014 12:39:10 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[28-Nov-2014 12:39:10 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[01-Dec-2014 00:56:33 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[01-Dec-2014 00:56:33 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[03-Dec-2014 15:58:37 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[03-Dec-2014 15:58:37 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[05-Dec-2014 20:29:29 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[05-Dec-2014 20:29:29 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[10-Dec-2014 17:23:08 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[10-Dec-2014 17:23:08 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[11-Dec-2014 01:38:47 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[11-Dec-2014 01:38:47 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[12-Dec-2014 17:56:24 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[12-Dec-2014 17:56:24 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[19-Dec-2014 08:50:57 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[19-Dec-2014 08:50:57 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[20-Dec-2014 06:44:34 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[20-Dec-2014 06:44:35 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[24-Dec-2014 00:19:05 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[24-Dec-2014 00:19:05 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[28-Dec-2014 16:29:38 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[28-Dec-2014 16:29:38 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[01-Jan-2015 20:42:46 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[01-Jan-2015 20:42:46 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[05-Jan-2015 17:28:37 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[05-Jan-2015 17:28:37 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[07-Jan-2015 15:07:06 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[07-Jan-2015 15:07:06 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[11-Jan-2015 20:54:39 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[11-Jan-2015 20:54:39 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[15-Jan-2015 17:59:14 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[15-Jan-2015 17:59:15 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[16-Jan-2015 18:05:05 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[16-Jan-2015 18:05:05 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[18-Jan-2015 09:30:40 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[18-Jan-2015 09:30:40 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[23-Jan-2015 17:16:48 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[23-Jan-2015 17:16:48 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[23-Jan-2015 22:22:14 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[23-Jan-2015 22:22:14 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[29-Jan-2015 01:08:17 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[29-Jan-2015 01:08:17 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[03-Feb-2015 05:39:18 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[03-Feb-2015 05:39:18 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[06-Feb-2015 18:18:45 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[06-Feb-2015 18:18:45 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[07-Feb-2015 23:41:32 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[07-Feb-2015 23:41:32 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[09-Feb-2015 22:57:10 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[09-Feb-2015 22:57:10 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[12-Feb-2015 09:25:17 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[12-Feb-2015 09:25:17 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[12-Feb-2015 16:52:00 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[12-Feb-2015 16:52:00 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[12-Feb-2015 22:24:49 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[12-Feb-2015 22:24:49 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[18-Feb-2015 12:27:17 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[18-Feb-2015 12:27:17 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[20-Feb-2015 04:24:14 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[20-Feb-2015 04:24:14 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[20-Feb-2015 08:26:46 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[20-Feb-2015 08:26:46 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[20-Feb-2015 15:45:39 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[20-Feb-2015 15:45:39 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[21-Feb-2015 08:07:01 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[21-Feb-2015 08:07:01 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[26-Feb-2015 20:10:51 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[26-Feb-2015 20:10:51 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[02-Mar-2015 06:21:49 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[02-Mar-2015 06:21:49 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[04-Mar-2015 19:58:26 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[04-Mar-2015 19:58:26 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[05-Mar-2015 09:26:03 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[05-Mar-2015 09:26:03 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[05-Mar-2015 13:56:33 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[05-Mar-2015 13:56:33 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[06-Mar-2015 15:20:33 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[06-Mar-2015 15:20:33 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[10-Mar-2015 08:34:10 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[10-Mar-2015 08:34:10 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[11-Mar-2015 14:40:27 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[11-Mar-2015 14:40:28 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[20-Mar-2015 19:45:55 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[20-Mar-2015 19:45:55 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[21-Mar-2015 12:18:01 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[21-Mar-2015 12:18:01 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[26-Mar-2015 16:02:33 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[26-Mar-2015 16:02:33 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[02-Apr-2015 10:30:17 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[02-Apr-2015 10:30:17 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[04-Apr-2015 10:56:21 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[04-Apr-2015 10:56:21 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[08-Apr-2015 06:45:07 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[08-Apr-2015 06:45:07 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[10-Apr-2015 04:17:09 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[10-Apr-2015 04:17:09 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[10-Apr-2015 21:53:46 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[10-Apr-2015 21:53:46 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[11-Apr-2015 02:29:55 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[11-Apr-2015 02:29:55 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[12-Apr-2015 10:21:50 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[12-Apr-2015 10:21:50 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[12-Apr-2015 11:31:17 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[12-Apr-2015 11:31:17 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[15-Apr-2015 15:46:18 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[15-Apr-2015 15:46:18 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[17-Apr-2015 04:17:28 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[17-Apr-2015 04:17:28 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[19-Apr-2015 11:11:11 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[19-Apr-2015 11:11:11 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[21-Apr-2015 01:12:08 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[21-Apr-2015 01:12:08 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[21-Apr-2015 01:39:27 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[21-Apr-2015 01:39:27 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[22-Apr-2015 15:10:38 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[22-Apr-2015 15:10:38 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[24-Apr-2015 04:17:11 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[24-Apr-2015 04:17:11 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[24-Apr-2015 08:21:05 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[24-Apr-2015 08:21:05 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[26-Apr-2015 11:15:06 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[26-Apr-2015 11:15:06 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[27-Apr-2015 11:39:12 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[27-Apr-2015 11:39:12 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[27-Apr-2015 12:12:10 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[27-Apr-2015 12:12:10 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[27-Apr-2015 19:46:44 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[27-Apr-2015 19:46:44 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[01-May-2015 04:17:14 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[01-May-2015 04:17:14 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[03-May-2015 11:33:28 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[03-May-2015 11:33:28 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[06-May-2015 09:36:25 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[06-May-2015 09:36:25 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[08-May-2015 04:17:15 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[08-May-2015 04:17:15 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[10-May-2015 11:10:16 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[10-May-2015 11:10:16 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[11-May-2015 03:37:37 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[11-May-2015 03:37:37 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[11-May-2015 12:11:16 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[11-May-2015 12:11:16 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[15-May-2015 04:17:36 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[15-May-2015 04:17:36 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[22-May-2015 03:03:02 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[22-May-2015 03:03:02 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[22-May-2015 04:17:18 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[22-May-2015 04:17:18 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[24-May-2015 07:06:38 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[24-May-2015 07:06:38 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[24-May-2015 11:29:15 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[24-May-2015 11:29:15 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[26-May-2015 23:34:43 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[26-May-2015 23:34:43 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[27-May-2015 14:05:35 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[27-May-2015 14:05:35 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[29-May-2015 04:17:18 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[29-May-2015 04:17:18 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[31-May-2015 18:12:14 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[31-May-2015 18:12:14 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[01-Jun-2015 04:52:07 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[01-Jun-2015 04:52:07 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[05-Jun-2015 04:17:21 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[05-Jun-2015 04:17:21 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[11-Jun-2015 05:09:38 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[11-Jun-2015 05:09:38 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[12-Jun-2015 04:17:21 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[12-Jun-2015 04:17:21 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[14-Jun-2015 11:31:09 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[14-Jun-2015 11:31:09 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[19-Jun-2015 04:17:23 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[19-Jun-2015 04:17:23 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[21-Jun-2015 11:13:44 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[21-Jun-2015 11:13:44 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[22-Jun-2015 18:38:00 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[22-Jun-2015 18:38:00 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[24-Jun-2015 21:43:50 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[24-Jun-2015 21:43:50 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[24-Jun-2015 22:06:59 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[24-Jun-2015 22:06:59 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[26-Jun-2015 04:17:25 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[26-Jun-2015 04:17:25 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[27-Jun-2015 09:04:41 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[27-Jun-2015 09:04:41 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[29-Jun-2015 03:41:57 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[29-Jun-2015 03:41:57 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[03-Jul-2015 04:17:25 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[03-Jul-2015 04:17:25 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[05-Jul-2015 16:26:02 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[05-Jul-2015 16:26:02 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[07-Jul-2015 01:12:03 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[07-Jul-2015 01:12:03 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[08-Jul-2015 12:59:06 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[08-Jul-2015 12:59:06 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[10-Jul-2015 04:17:26 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[10-Jul-2015 04:17:26 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[11-Jul-2015 00:26:39 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[11-Jul-2015 00:26:39 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[14-Jul-2015 12:00:27 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[14-Jul-2015 12:00:27 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[14-Jul-2015 17:57:27 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[14-Jul-2015 17:57:27 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37
+[17-Jul-2015 07:12:35 America/Denver] PHP Notice:  Undefined index: access in /home3/alanmand/public_html/commons/checkauth.php on line 4
+[17-Jul-2015 07:12:35 America/Denver] PHP Notice:  Undefined index: factor in /home3/alanmand/public_html/recipes/index.php on line 37

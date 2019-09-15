@@ -1,0 +1,106 @@
+<?php
+include_once('../commons/checkauth.php');
+$_SESSION["db"]="recipes";
+include_once('../commons/dbconnect.php');
+
+if (isset($_POST['submit'])){
+  $keyword=htmlentities($_POST['keyword']);
+  $ingredients=$_POST['ingredient'];
+  $minPrepTime=htmlentities($_POST['minPrepTime']);
+  $maxPrepTime=htmlentities($_POST['maxPrepTime']);
+  $query="SELECT RecipeID, Title, Source, PrepTime FROM Recipes WHERE ";
+  if (isset($ingredients) && count($ingredients)>0) {
+    $idList="(";
+    $ingCount=0;
+    foreach($ingredients as $ing){
+      if ($ing=="") continue;
+      $idList.=$ing.",";
+      $ingCount++;
+    }
+    $idList = substr_replace($idList,"",-1);
+    $idList .=")";
+    $query.= "RecipeID IN (SELECT RecID FROM RecipeToIngredients WHERE IngID IN $idList GROUP BY RecID HAVING Count(*)=$ingCount) ";
+    $query.= "AND PrepTime>=$minPrepTime AND PrepTime<=$maxPrepTime AND Title Like '%$keyword%'";
+    $results = mysql_query($query) or die(mysql_error());
+  }
+}
+
+
+?>
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <link rel="stylesheet" type="text/css" href="stylesheets/main.css" />
+    <script type="text/javascript" src="../commons/javascripts/jquery-1.4.2.js"></script>
+    <script type="text/javascript" src="../commons/javascripts/json2.js"></script>
+    <script type="text/javascript" src="../commons/javascripts/jquery.label_over.js"></script>
+    <script type="text/javascript">
+      $(function() {
+	  $('label.targetLabel').labelOver('labelover');
+	});
+
+      ingCount = 0;
+      function addIngTable(){
+	var TR = $('<tr id="ingRow'+ingCount+'"></tr>');
+	var ingTD = $("<td></td>");
+	var ingInp = $('<input type="text" name="ingredient[]" onblur="addIngTable()"/>');
+	ingTD.append(ingInp);
+	TR.append(ingTD);
+	$("#IngredientsTable").append(TR);
+	ingCount++;
+      }
+
+    </script>
+  </head>
+  <body>
+    <form action="<?php echo $PHP_SELF; ?>" method="POST">
+      <table>
+	<tr>
+	  <td>
+            <div class="labeledfield">
+              <label class="targetLabel" for="keyword">Keyword</label>
+    	      <input type="text" id="keyword" name="keyword"/>
+            </div>
+          </td>
+          <td>
+            <table id="IngredientsTable">
+   	      <tr>
+	        <td>
+	          <div class="labeledfield">
+                    <label class="targetLabel" for="ingredient">Ingredients</label>
+	            <input type="text" id="ingredient" onblur="addIngTable()" name="ingredient[]"/>
+                  </div>
+	        </td>
+              </tr>
+            </table>
+          </td>
+	  <td>
+            <div class="labeledfield">
+              <label class="targetLabel" for="minPrepTime">Minimum Prep Time</label>
+    	      <input type="text" id="minPrepTime" name="minPrepTime"/>
+            </div>
+	  </td>
+	  <td>
+            <div class="labeledfield">
+              <label class="targetLabel" for="maxPrepTime">Maximum Prep Time</label>
+  	      <input type="text" id="maxPrepTime" name="maxPrepTime"/>
+            </div>
+	  </td>
+          <td>
+            <input type="submit" name="submit" value="submit" />
+          </td>
+        </tr>
+      </table>
+    </form>
+
+<?php
+  while($row=mysql_fetch_array($results)){
+    echo $row['Title'],$row['RecipeID'],$row['Source'],$row['PrepTime'],$row['Recipes'];
+  }
+?>
+
+  </body>
+</html>

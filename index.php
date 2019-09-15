@@ -1,0 +1,83 @@
+<?php
+require_once("../commons/setup.php");
+setup(true,"recipes");
+?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <link rel="stylesheet" type="text/css" href="stylesheets/main.css"/>
+    <style type="text/css">
+      @import '../commons/stylesheets/css.php?scheme=recipe';
+    </style>
+    <script type="text/javascript" src="../commons/stylesheets/jquery-1.4.2.js"></script>
+    <script type="text/javascript" src="../commons/stylesheets/jquery.label_over.js"></script>
+    <script type="text/javascript">
+      $(function() {
+        $('label.targetLabel').labelOver('labelover'); 
+      })
+		
+      $(function() {
+	$("#adjustBtn").click(function() {
+	    document.frmRecipe.submit();
+	});
+      })
+			
+    </script>
+    <title>Alan and Heathers Recipe Database</title>
+  </head>
+  <body style="font-family: Arial;border: 0 none;">
+    <form method="POST" name="frmRecipe" action="index.php">
+      <table>
+	<tr>
+	  <td>
+	    <table class="recipeTable">
+<?php
+	$factor = $_POST['factor'];
+	if (!$factor){
+	  $factor = 1;
+	}
+	$query = "SELECT * FROM Recipes";
+	$resRecipies = mysql_query($query) or die(mysql_error());
+	
+	while($row = mysql_fetch_array($resRecipies)){
+ 	  $recID = $row["RecipeID"];
+	  $makes = $factor * $row['MakesQty'];
+	  echo("<tr><td colspan=\"5\">".$row['Title']." (".$makes." ".$row['MakesLbl'].")</td></tr>");
+	  echo("<th colspan=\"5\">Ingredients</th>");
+	  $query = "SELECT * FROM RecipeToIngredients JOIN Ingredients ON RecipeToIngredients.IngID=Ingredients.IngredientID".
+	    " WHERE RecipeToIngredients.RecID=$recID";
+	  $ingResult = mysql_query($query);
+	  while($ingredients = mysql_fetch_array($ingResult)){
+	    $qty = $factor * $ingredients['Quantity'];
+	    echo("<tr><td colspan=\"3\">".$ingredients['Name']."</td>");
+	    echo("<td>".$qty."</td>");
+	    echo("<td>".$ingredients['QuantityLbl']."</td>");
+	    echo("</tr>");
+	  }
+	  echo("<th colspan=\"5\">Directions</th>");
+	  echo("<tr><td colspan=\"5\">".$row['Directions']."</td></tr>");
+	}
+?>
+	      <tr>
+		<td colspan="3">
+		  <input type="text" name="factor" value="<?php
+echo $_POST['factor'];
+?>" />
+		</td>
+		<td colspan="2">
+		  <div class="button" id="adjustBtn">Adjust recipe
+		  </div>
+		</td>
+	      </tr>
+	    </table>		
+	    </td>
+	    <td></td>
+	  </tr>
+	</table>
+      </form>
+  </body>
+</html>
+	
+

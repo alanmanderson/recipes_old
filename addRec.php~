@@ -1,0 +1,26 @@
+<?php
+		$mydb = mysql_connect("sql.mit.edu", "alanma", "daBrav3s") or die(mysql_error());
+		mysql_select_db("alanma+recipes") or die(mysql_error());
+
+		if (md5($_POST['passcode'])!="f0dc8941e43f33a1ea92e0425228151e")
+		{
+			exit("incorrect Password: ".$_POST['passcode']);
+		}
+		$title = $_POST['title'];
+		$bakeTime = $_POST['bakeTime'];
+		$directions = $_POST['directions'];
+		$source = $_POST['source'];
+		$ingAmounts = $_POST['ingAmounts'];
+		$ingredients = $_POST['ingredients'];
+		foreach ($ingredients as $ing1) {
+				echo($ing1);
+		}
+		foreach ($ingAmounts as $ing) {
+				echo($ing);
+		}
+		$in_recQuery = "INSERT INTO Recipes VALUES(NULL,$title,$bakeTime,$directions,$source)";
+		echo($in_recQuery);
+		$from = $_POST['from'];
+		#if ($from) {header("Location: $from");}
+		
+	?>
